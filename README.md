@@ -26,7 +26,7 @@ Run the main file:
 
 python full_project.py
 
-ℹ️ Note:"
+ℹ️ Note:
 
 PIN must be 4 digits and should not be weak patterns.
 Account locks for 5 minutes after 3 wrong attempts.
